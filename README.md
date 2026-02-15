@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>"Di siang hari sibuk dengan stetoskop dan pasien, di malam hari sibuk dengan SSH dan Bash Scripting."</i> 🥤🎮
+  <i>"Di siang hari sibuk dengan stetoskop dan pasien, di malam hari sibuk dengan Bash Scripting."</i> 🥤🎮
 </p>
 
 ---
