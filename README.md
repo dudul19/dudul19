@@ -3,7 +3,7 @@
 <h3 align="center">A Veterinary Medicine Student & Networking Enthusiast 🐾💻</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/tI292R3yvO8AAAAC/dudul-cat.gif" width="250" alt="Dudul GIF">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE2YjZjZGEzYjNhMzNhZGM3YjZhZWE3YmFkYjZmNjFhMmZhN2EwYSZlcD12MV9pbnRlcm5hbF9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif" width="250" alt="Umaru-chan GIF">
 </p>
 
 <p align="center">
